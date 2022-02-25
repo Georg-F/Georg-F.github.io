@@ -1,0 +1,31 @@
+.title { 
+	font-size: 130%
+	}
+body {
+	background-color: #1C1C17;
+	text-align: center;
+	text-justify: inter-word;
+	padding-right: 60%;
+	text-align: center;
+	color: #FCF8CC;
+	font-family: verdana, sans-serif;
+	font-size: 95%;
+	}
+.hyperlink {
+	color: F6D228;
+	text-decoration: none;
+	}
+.content {
+	line-height: 1.5;
+	}
+
+.mobile {
+	width: 360px;
+	text-align: center;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.box {
+
+}
