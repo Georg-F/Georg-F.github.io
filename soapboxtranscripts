@@ -1,0 +1,50 @@
+ <DOCTYPE! html>
+	<html>
+		<header>
+			<link rel="stylesheet" href="style.css">
+			<link rel="shortcut icon" href="/favicon.ico"> 
+		</header>
+			<title>
+				SoapBox Intention Transcripts
+			</title>
+					<style>
+			.title { 
+	font-size: 130%
+	}
+body {
+	background-color: #1C1C17;
+	text-align: center;
+	text-justify: inter-word;
+	padding-right: 60%;
+	text-align: center;
+	color: #FCF8CC;
+	font-family: verdana, sans-serif;
+	font-size: 95%;
+	}
+.hyperlink {
+	color: F6D228;
+	text-decoration: none;
+	}
+.content {
+	line-height: 1.5;
+	}
+		</style>
+		<body>
+			<h1>
+			Transcripts of SoapBox Intention speeches
+			</h1>
+			<p>
+			Each transcript includes the title and the date first given, and by who
+			</p>
+			<p class = "title"><b>Creative Subversion | 10-1-22 | Jonah Dayley</b></p>
+<span class = "content">
+Students, the bulk of you probably dislike one aspect of school or another. One major sticking point for most students is the sheer rote and tedium of showing up to school exclusively to sit and classrooms for a entire day, before going home. It doesn't have to be this way. You can make school what you want it to be. I don't mean this in the traditional platitude sense, in that 'you control your attitude' or whatever, but I mean that there is a large group of people similar to you, trapped in the same building for the same time. This means that each person has an audience to channel their creativity to. 
+Creative Subversion. That's the term for it. I encourage each of you, students, to take advantage of the time you spend each day here, and be creative publicly! It can be difficult at first attempt, but little is more rewarding. If you enjoy performance, you can do the equivalent of street performing in the hallways at lunch. If you enjoy writing or visual art, then you can use Guerrilla Publishing or pure word-of-mouth to spread it around and show people. If you enjoy business, then just start selling things. There is nothing to stop us from making school whatever you want except pure inertia. So let us begin, students, in our process of subversion through creativity. We can shape our lives, and improve the lives of others around us, even within the confines of this environment.
+</span>
+			<br>
+			<br>
+<a href="soapbox.html"; class = "hyperlink">SoapBox HomePage</a>
+			<br>
+<a href="index.html"; class = "hyperlink">MainPage</a>
+		</body>
+	</html>
