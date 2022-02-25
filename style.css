@@ -29,3 +29,8 @@ body {
 .box {
 
 }
+
+.list {
+	list-style-type: none;
+	padding-left: 5%;
+}
