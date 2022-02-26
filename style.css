@@ -34,3 +34,7 @@ body {
 	list-style-type: none;
 	padding-left: 1%;
 }
+
+.special-list-item {
+	list-style-type: square;
+}
