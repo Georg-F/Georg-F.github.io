@@ -1,0 +1,41 @@
+<DOCTYPE! html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<link rel="icon" type="image/x-icon" href="/favicon.ico">
+		<title>
+        All Our Friends
+		</title>
+	</head>
+	<body>
+		<h1>
+        All Our Friends
+		</h1>
+	<span class = "content">
+		<p>
+This page is all the official information for All Our Friends, as well as a recording of the single that you can download.
+		</p>
+		<p class="title">
+      All Our Friends Liner Notes
+		</p>
+		<p>
+      All Our Friends was intended to be a concept album that would be about all of our friends. Turns out, writing music was harder than we thought, so now it's a concept EP about some of our friends. Pure coincidence that all of them are about girls :)
+		</p>
+		<p>
+      Personnel
+		</p>
+    <ul>
+    <li>musicians</li>
+    <li class = "special-list-item">Jonah Dayley: bass (all tracks), vocals (lead tracks 3, 4, 5; backing tracks 1, 6)</li>
+    <li class = "special-list-item">Ryan Price: cello (all tracks), vocals (lead tracks 1, 2, 6; backing tracks 3, 5)</li>
+    <li class = "special-list-item">Joshua Miner: guitar (tracks 1, 3, 4, 5, 6), piano (track 2)</li>
+    <li class = "special-list-item">Chase Crawford: drums (all tracks)</li>
+    <li class = "special-list-item">Mitchell Wells: piano (track 1)</li>
+    <li class = "special-list-item">Tanner Atwood: piano (track 3)</li>
+    <li>technical personnel:</li>
+    <li class = "special-list-item">Levi Dayley: production, mixing, engineer (all tracks)</li>
+    <li class = "special-list-item">Jonah Dayley: production, mixing, engineer (all tracks)</li>
+    <li class = "special-list-item">Our Dear Friends: cover artwork</li>
+	</ul>
+		<br>
+<a href="dab.html"; class = "hyperlink">Dubious At Best Homepage</a>
