@@ -9,7 +9,8 @@ body {
 	color: #FCF8CC;
 	font-family: verdana, sans-serif;
 	font-size: 95%;
-      /*padding-right: 60%;*/
+        padding-right: 10%;
+	padding-left: 10%;
 	}
 .hyperlink {
 	color: F6D228;
